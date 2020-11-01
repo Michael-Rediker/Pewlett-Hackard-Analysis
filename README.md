@@ -11,12 +11,16 @@ In this challenge we were given two tasks, to determine the number of retiring e
 ### Number of Retiring Employees by Title
 The Unique Titles deliverable is a list of all the employees that are eligible to retire along with their corresponding titles. By getting the count of all employees retiring by title, image below, we can begin to see patterns that may prove useful.
 
+![alt text](https://github.com/Michael-Rediker/Pewlett-Hackard-Analysis/blob/main/Images/Retirement%20Eligible%20Employee%20Count%20by%20Department.PNG)
+
 1. The first thing I noticed about this deliverable was which positions had the most number of retirement eligible employees, there are 57, 668 Senior Engineers and Senior Staff eligible for retirement, which makes up approximately 63.79% of total employees eligible for retirement. With the possibility of so many senior employees retiring, it could create a huge disparity in knowledge and experience if those positions are not filled quickly. 
 
 2. The second thing, out of all employees eligible for retirement, only 2 are managers. Further analysis would need to be done to determine what ages and how long each manager has been at the company to see what effects this is having on the company. But it could mean that a lot of managers are much younger and not near retirement age, there could be descrepencies with the data for managers, or this result may be expected by the company and nothing needs to be done.
 
 ### Mentorship Eligible Employees
 The Mentorship Eligibility deliverable cointains a list of employees that are eligible to participate in the mentorship program by remaining on part time instead of retiring, and acting as a point of contact for new employees as they learn. By also getting the count of this list, below, we can compare it to our previous deliverable to see how effective the mentorship program may be.
+
+![alt text](https://github.com/Michael-Rediker/Pewlett-Hackard-Analysis/blob/main/Images/Mentorship%20Eligible%20Employee%20Count%20by%20Department.PNG)
 
 1. The first thing that stands out about this deliverable is the small number of employees eligible to mentor in respect to the total number of employees retiring. There are 1,549 retirement eligible employees that are also eligible to be mentors out of the total 90,398 retirement eligible employees. 
 
